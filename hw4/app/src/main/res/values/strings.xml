@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HW4</string>
+    <string name="login">LOGIN</string>
+    <integer name="com_vk_sdk_AppId">7717321</integer>
+</resources>
